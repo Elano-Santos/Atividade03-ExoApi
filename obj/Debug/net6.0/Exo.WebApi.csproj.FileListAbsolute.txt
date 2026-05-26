@@ -800,6 +800,7 @@ C:\Users\elano\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\De
 C:\Users\elano\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.CoreCompileInputs.cache
 C:\Users\elano\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\elano\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elano\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
 C:\Users\elano\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\rjimswa.dswa.cache.json
 C:\Users\elano\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
 C:\Users\elano\Downloads\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
